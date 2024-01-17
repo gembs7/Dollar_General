@@ -1,0 +1,102 @@
+https://www.cnn.com/2021/05/06/business/dollar-store-openings-retail/index.html
+
+https://www.axios.com/2023/05/22/dollar-store-sales-household-brands-expansion
+
+https://www.forbes.com/sites/laurendebter/2022/05/20/dollar-general-opening-new-stores-across-small-town-america/?sh=2d4fcb0bce5f
+
+https://www.businessinsider.com/dollar-general-low-price-strategy-2018-8
+
+
+https://www.businessinsider.com/dollar-general-ceo-todd-vasos-talks-grocery-future-walmart-2021-2
+
+
+
+So how does Dollar General Keep costs so low to operate these rural chains? It turns out, there are many factors that contribute to the franchise's successful business model:
+
+Dollar General leases most of its locations, passing the burden of construction onto developers.
+
+Stores are small, averaging at 7,400 square feet, 4% the size of the average Walmart. 
+
+Design is minimal, with only cheap shelves, strip-lights, and a few adverts and signs.
+
+Dollar General's often only have one or two employees on shift at any given time, keeping wages at a minimum.
+
+According to a 2021 survey done by the nonprofit think tank, Economic Policy Institute, 92% of Dollar General workers earn less than $15 an hour
+
+Dollar General limits their inventory variety, often only carrying one or two unique styles of each product they offer. They also carry many private-label items, made specifically for their stores. These changing are advantageous to the supply chain.
+
+The extreme low-cost of operation alongside the guaranteed business from residents who have nowhere else to get necessities locally, makes these stores stable, albeit thin-margined sources of profit.
+
+
+Dollar General's Invasion of Rural America
+Dollar General's Invasion of Rural America
+A 2023 Analysis of the Geographic Distribution of U.S. Dollar Stores
+
+Nick Gembs
+
+Draft
+
+
+
+Dollar stores are becoming one of the fastest growing channels in retail. As inflation continues to burden the U.S. economy, wages are not keeping up, leading many Americans to seek cheaper substitutes for their day to day necessities. Dollar stores are the immediate and accessible solution to these needs, offering cheap options for goods ranging from food, to toys, to toiletries. Major chains such as Dollar Tree, Family Dollar, and Dollar General have even been partnering with household consumer brands such as Smuckers, Dunkin, and Lunchables to create smaller, "discount" versions of their products, to be specially sold at a $1.25 price point.
+
+These factors have all coalesced to create the biggest dollar store franchise expansion America has ever seen. In 2021, nearly half of all retail stores opened in America were dollar stores. An even more staggering number, 1/3 of all stores opened were specifically Dollar Generals.
+
+This project will analyze the business model and location preferences of three dollar store chains: Dollar General, Dollar Tree, and Family Dollar. All three have locations throughout the continental U.S. and are rapidly expanding. Dollar General, the most expansive of the three corporations, is opening a whopping 3 stores per day as of 2021.
+
+This first map shows the density of dollar store locations by state, shown as circles representing stores per 1000 people. Dollar General seems focused on the midwest and Great Plains region, while Dollar is dominant on the East Coast, and Family Dollar leading the pack in western United States. All three have strong presence in the south east, and seem to have slight preference towards states with a lower population density.
+
+
+When overlaid on top of the 2020 U.S. poverty rate, the trend of dollar store density begins to become explicit. There is a pronounced correlation between poverty rate and store density, delineating the reasoning behind the franchises similar location preferences. This association is easily describable, as budget retail outlets' core customer base are those who are tight on money and looking for a cheap alternative to larger retailers like Walmart, Target, or Whole Foods. The most obvious examples of this customer targeting is seen in the high concentration of discount stores in West Virginia, with significantly less across the border in the more economically fruitful state of Virginia. A second example is observed in the consistent presence of these stores in New Mexico, a state struggling with the third highest U.S. poverty rate. However, just north of the border in Colorado, dollar stores seem to disappear altogether.
+
+
+These analyses can be zoomed in to a single state to get a more in depth look at what kinds of communities are home to these chains. New York is a great example as it has a wide array of variable geography, demographics, and population density. In the heatmap below, Dollar General visibly stands out amongst its peers. Family Dollar and Dollar Tree are expectedly located in urban centers, such as New York City, Buffalo, and Albany. Yet, Dollar General seems almost uniformly distributed across the state, with the exception of the Adirondacks. 
+
+
+Dollar General leads all three chains in percent of stores for districts in the two smallest population categories in the charts below. Dollar General also only has 5.2% of its New York stores in districts over a 6,000 population. Family Dollar lies at 9.2%, while Dollar Tree doubles Dollar General at 12.1%. Dollar General prioritizes rural towns at a far higher rate than its competitors, a sentiment affirmed by CEO Todd Vasos in a 2021 interview by Business Insider, where Vasos shared that "we started to look years ago into expanding into small towns, and we knew there was that niche to fill. We actually went in with a few new, different prototypes to be able to deliver those kind of consumable needs that the consumer in these areas were having to drive upwards of 20 miles to be able to get fresh products." 
+
+
+Additionally, all three dollar store chains dispraportianately position themselves in food scarce and economically distressed communities. Todd Vasos explicitly stated that Dollar General looks to open stores in locations where "the grocers have moved out years and years ago", leaving consumers with no other option for their daily needs. Further capitalizing on this vulnerability, dollar store chains have been expanding their packaged and frozen goods offerings in their rural locations, launching new supply chain waves such as DG Fresh for Dollar General and the Snack Zone at Dollar Tree.
+
+
+New York economic distress can be seen regionally in the map below, which depicts low income population count beyond 1 mile from a supermarket for urban areas or 10 miles from a supermarket for rural areas by county.
+
+Low Food Access County's in New York - ng334
+
+Unsurprisingly, this map shares significant similarity with the distribution of Dollar General stores in New York by county. Three of the most prominent low income and low food access counties, Erie, Monroe, and Onondoga, also happen to be hubs for a multitude of Dollar Generals (56, 17, and 23, respectively).
+
+New York Dollar General's by County - ng334
+
+Erie County leads New York in both low food access households and Dollar General stores by a large margin. From all the evidence gathered to this point, it's likely that this is not a coincidence. Dollar Generals are becoming a staple in bargain-hunting families' weekly shopping. Mark Cohen, the director of retail studies at Columbia Business School, called Dollar General "the corner grocery store on steroids", adding that in many instances, the "customer has no place else to go". In practice, this strategy has been highly profitable. Sales have been up every year since its IPO in 2009, revenue has increased by 600%, and Dollar General's margins outcompete those of major competitors like Target, Walmart, and either other discount chains like Dollar Tree.
+
+Dollar General NY Locations
+
+Lackawanna NY is an exemplar of Erie county's perfect demographics for Dollar Generals. Just south of Buffalo, Lackawanna has a population of 19,000, a median income of  $44,000, and a poverty rate of 22%, well above the New York median.
+
+Examples of remote Dollar Generals in poor villages off of major highways are commonplace all throughout New York. Just a few are shown in the slides below:
+
+
+
+
+
+
+About an hour northeast of Binghamton, the towns of Sidney, Afton, and Masonville, each have their own Dollar General. They have populations of 3,700, 800, and 1,200, respectively.
+
+
+
+
+This trend doesn't exist only for New York. Midsize cities like Midland, Texas have a General for every 7,000 residents, while a small community like Olive Hill, Kentucky has 4 stores servicing only 1,500 people. Across the entire United States, Dollar general is targeting rural areas with the hopes that they can capture the entire market by being the closest and most convenient store for necessities no matter where you live. To further hone in on this strategy, Dollar Generals can often be found on the side of state or interstate highways, making them great pit stops for commuters, tourists, truck drivers, and general passersby. 
+
+So how does Dollar General Keep costs so low to operate these rural chains? It turns out, there are many factors that contribute to the franchise's successful business model:  
+
+Dollar General leases most of its locations, passing the burden of construction onto developers.
+Stores are small, averaging at 7,400 square feet, 4% the size of the average Walmart. 
+Design is minimal, with only cheap shelves, strip-lights, and a few adverts and signs. 
+Dollar Generals often only have one or two employees on shift at any given time, keeping wages at a minimum.
+In a 2021 survey done by the Economic Policy Institute, it was found that 92% of Dollar General employees earn less than $15 an hour.
+Dollar General limits their inventory variety, often only carrying one or two unique styles of each product they offer. They also carry many private-label items, made specifically for their stores. These changing are advantageous to the supply chain. 
+The extreme low-cost of operation alongside the guaranteed business from residents who have nowhere else to get necessities locally, makes these stores stable, high-margined sources of profit.
+
+Dollar General's Invasion of Rural America
+
+It remains to be seen what long term effects are in store for these small communities who have grown dependence on the multi-billion dollar corporation. However, it's never a good sign for communities when retailers and service providers extract wealth out of the local regions rather than recirculating that money back into the economy. Whether it be rising wages, competition, social backlash, or government regulation, something is going to have to change to keep these rural dollar economies afloat in the future.
